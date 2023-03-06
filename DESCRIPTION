@@ -11,7 +11,7 @@ comment = c(ORCID = "0000-0002-3381-4604")
 )
 )
 Maintainer: Mark Niemann-Ross <mark@niemannross.com>
-Description: Access events created by a Wild Apricot CMS. https://wildapricot.com
+Description: Access Wild Apricot CMS data from the R programming language. https://wildapricot.com
 License: MIT
 Encoding: UTF-8
 LazyData: true
