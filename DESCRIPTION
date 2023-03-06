@@ -1,0 +1,18 @@
+Package: wildApricotR
+Type: Package
+Title: Data mining on a Wild Apricot CMS installation
+Version: 0.1.0
+Author: c(
+person(given = "Mark", 
+family = "Niemann-Ross",
+email = "mark@niemannross.com",
+role = c("aut","cre"),
+comment = c(ORCID = "0000-0002-3381-4604")
+)
+)
+Maintainer: Mark Niemann-Ross <mark@niemannross.com>
+Description: Access events created by a Wild Apricot CMS. https://wildapricot.com
+License: MIT
+Encoding: UTF-8
+LazyData: true
+URL: 
