@@ -1,0 +1,16 @@
+citHeader("To cite wildApricotR in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Access Wild Apricot data",
+  author   = "Mark Niemann-Ross",
+  journal  = ,
+  year     = 2023,
+  volume   = ,
+  number   = ,
+  pages    = ,
+  url      = ,
+  textVersion = paste(
+
+  )
+)
